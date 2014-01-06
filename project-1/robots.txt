@@ -1,0 +1,3 @@
+Sitemap: http://wrig0310.site44.com/dsn1543/project-1/sitemap.xml
+User-agent: *
+Disallow: /assets/

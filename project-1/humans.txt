@@ -1,0 +1,19 @@
+/* TEAM */
+
+Designer & Developer: Rebecca Wright
+Site: http://wrig0310.site44.com/dsn1543/project-1/
+Twitter: @bekka666
+Location: Ottawa, Canada
+
+
+
+/* THANKS */
+
+Thanks to Tiffany for helping me with this project and all of the awesome people in Graphic Design.
+
+
+/* SITE */
+Last update: 2013/12/12
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc...
+Software: Adobe, Livereload, Dreamweaver CS6
